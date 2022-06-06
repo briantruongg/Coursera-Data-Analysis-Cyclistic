@@ -1,4 +1,4 @@
-# Cyclistic-Coursera Case Study
+# Cyclistic - Coursera Case Study
 my first project in analytics and learning how to code
 
 still a work in progress and open to critiques and comments
