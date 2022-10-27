@@ -1,6 +1,5 @@
 # Cyclistic - Coursera Case Study
-my first project in data analytics and learning how to code
 
-still a work in progress and open to critiques and comments
+my first project in data analytics and learning how to code in Google's Coursera Data Analytics course
 
-a lot of work to be done and a lot of things to be learned!
+here we analyze Cyclistic, a fictional company in Google's course, in R
