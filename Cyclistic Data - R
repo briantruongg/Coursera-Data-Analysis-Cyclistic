@@ -180,7 +180,7 @@ all_trips %>%
   geom_col(position = "dodge")
 
 ## =========================
-##  7. export summary file
+##  8. export summary file
 ## =========================
 ## create a csv file that we will visualize in Excel or Tableau
 counts <- aggregate(all_trips$ride_length ~ all_trips$member_casual +
